@@ -1,0 +1,1 @@
+Added __repr__() for the queue.PriorityQueue and queue.LifoQueue classes
